@@ -2,8 +2,8 @@ LYRICJUMP – JAK ZVEŘEJNIT ZÁSADY OCHRANY SOUKROMÍ
 
 1. Otevřete soubor privacy-policy.html v textovém editoru.
 2. Nahraďte oba zástupné texty:
-   [DOPLŇTE KONTAKTNÍ E-MAIL]
-   [INSERT CONTACT EMAIL]
+   vicdosed@gmail.com
+   vicdosed@gmail.com
    skutečným kontaktním e-mailem.
 3. Zkontrolujte, zda aktuální verze aplikace skutečně používá LRCLIB, Gemini a/nebo ACRCloud.
    Službu, která ve vydávané verzi vůbec není, můžete ze zásad odstranit.
