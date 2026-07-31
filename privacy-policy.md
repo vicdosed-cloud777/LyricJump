@@ -82,4 +82,4 @@ The App is not directed to children under 13, and the operator does not knowingl
 This policy may be updated when App features, third-party services, or legal requirements change. The current version will always be published on this page and will include the date of the latest update.
 
 ### 10. Contact
-For privacy and data-protection questions, contact: **[INSERT CONTACT EMAIL]**
+For privacy and data-protection questions, contact: **vicdosed@gmail.com**
